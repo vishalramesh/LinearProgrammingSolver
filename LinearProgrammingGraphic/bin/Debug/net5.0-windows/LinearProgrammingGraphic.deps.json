@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LinearProgrammingGraphic/1.0.0": {
+        "dependencies": {
+          "LinearProgrammingSolver": "1.0.0"
+        },
+        "runtime": {
+          "LinearProgrammingGraphic.dll": {}
+        }
+      },
+      "LinearProgrammingSolver/1.0.0": {
+        "runtime": {
+          "LinearProgrammingSolver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinearProgrammingGraphic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LinearProgrammingSolver/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

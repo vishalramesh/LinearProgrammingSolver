@@ -1,0 +1,13 @@
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\bin\Debug\net5.0\LinearProgrammingSolver.deps.json
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\bin\Debug\net5.0\LinearProgrammingSolver.dll
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\bin\Debug\net5.0\ref\LinearProgrammingSolver.dll
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\bin\Debug\net5.0\LinearProgrammingSolver.pdb
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.csproj.AssemblyReference.cache
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.csproj.ResolveComReference.cache
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.AssemblyInfoInputs.cache
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.AssemblyInfo.cs
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.dll
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\ref\LinearProgrammingSolver.dll
+C:\Users\Vishal Ramesh\OneDrive\Desktop\LinearProgrammingSolver\LinearProgrammingSolver\obj\Debug\net5.0\LinearProgrammingSolver.pdb
